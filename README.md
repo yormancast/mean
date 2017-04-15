@@ -1,3 +1,3 @@
-# SEtting up a MEAN Stack APP
+# Setting up a MEAN Stack APP
 
-# DB and Node working
+DB and Node working
